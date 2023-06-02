@@ -9,6 +9,8 @@ python main.py
 
 库：
 
+pip install -r requirements.txt
+
 requests
 
 jsonpath
